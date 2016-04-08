@@ -1,0 +1,3 @@
+Run this command whenever you open the command prompt window.
+
+set PATH=%PATH%;C:\MinGW\bin
